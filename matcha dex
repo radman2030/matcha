@@ -46,6 +46,5 @@ CELESTIA_CHAIN="mamaki"
 
 CELESTIA_NODENAME="matcha" 
 CELESTIA_WALLET="matcha dex"
-CELESTIA_CHAIN="mamaki"
 
 ----------------------------------------------------------
